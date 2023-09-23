@@ -26,3 +26,4 @@ export type AddressEnrollment = {
 export type CEP = {
   cep: string;
 };
+
